@@ -502,9 +502,9 @@
 ## משאבים נוספים
 
 ### קישורים שימושיים:
-- **Steinberg Cubasis 3 Manual:** [https://steinberg.help/cubasis/](https://steinberg.help/cubasis/)
-- **Cubasis YouTube Channel:** סרטוני הדרכה רשמיים
-- **קהילת Cubasis Forum:** לשאלות ותמיכה
+- **Steinberg Cubasis 3 Manual:** חפשו "Cubasis 3 manual" באתר הרשמי של Steinberg
+- **Cubasis YouTube Channel:** ערוץ היוטיוב הרשמי של Cubasis - סרטוני הדרכה
+- **קהילת Cubasis Forum:** פורומים רשמיים לשאלות ותמיכה
 
 ### אפליקציות מומלצות:
 - **BPM Analyzer:** לזיהוי קצב שירים
